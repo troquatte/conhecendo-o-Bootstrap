@@ -7,7 +7,7 @@
 ## :custard: Descrição
 
 <p>Aulas Desenvolvida no curso Jornada Front-end modulo: Bootstrap</p>
-<p>Tecnologias: Bootstrap</p>
+<p><strong>Tecnologias:</strong> Bootstrap</p>
 
 ---
 
